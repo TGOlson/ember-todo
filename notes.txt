@@ -1,2 +1,0 @@
-http://emberjs.com/guides/getting-started/deleting-todos/
-
