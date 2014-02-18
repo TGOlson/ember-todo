@@ -13,5 +13,5 @@ Example built from the [Ember Getting Started Guide](http://emberjs.com/guides/g
 * A lot of dependencies - jQuery, Handlebars & Ember, plus Ember-data for this project.
 * Forces namespacing, which helps keep code clean.
 * Todos and Todo controller is an odd nomenclature - doesn't make sense to me yet.
-* Adding custom actions like ```isCompleted``` is not intuitive - seems like these belong in the model.
-
+* Adding custom actions like ```isCompleted``` is not intuitive - seems like these belong in the model, not the controllers.
+* Very powerful for creating slick UI components, like a ```clear completed``` button that only pops up once some todos are completed. This would be very hard to do in Rails.
